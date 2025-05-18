@@ -1,6 +1,6 @@
-*.dart linguist-language=Dart
-*.cpp linguist-language=Ignore
-*.h linguist-language=Ignore
-*.c linguist-language=Ignore
-*.cmake linguist-language=Ignore
-CMakeLists.txt linguist-language=Ignore
+# Ignore C++ and CMake files from language statistics but keep them in the repo
+*.cpp linguist-detectable=false
+*.h linguist-detectable=false
+*.c linguist-detectable=false
+*.cmake linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
