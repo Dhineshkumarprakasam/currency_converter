@@ -2,5 +2,6 @@
 *.cpp linguist-detectable=false linguist-language=Ignore
 *.h linguist-detectable=false linguist-language=Ignore
 *.c linguist-detectable=false linguist-language=Ignore
+*.cc linguist-detectable=false linguist-language=Ignore
 *.cmake linguist-detectable=false linguist-language=Ignore
 CMakeLists.txt linguist-detectable=false linguist-language=Ignore
