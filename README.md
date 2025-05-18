@@ -2,6 +2,19 @@
 
 A simple Flutter app that converts currency amounts (currently supports USD input) with a clean, dark-themed UI.
 
+---
+
+## Screenshots
+<table border=0px>
+  <tr>
+    <td><img src="Screenshots/Screenshot1.jpg" width="250" height="550" alt="App Screenshot - 1"/></td>
+    <td width="50">&nbsp;</td>
+    <td><img src="Screenshots/Screenshot2.jpg" width="250" height="550" alt="App Screenshot - 2"/></td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 * Input amount in USD
@@ -66,14 +79,6 @@ These are auto-generated and should **NOT** be committed to GitHub, ensuring the
 
 > Note: Conversion logic is not yet implemented. This feature will be added in future updates.
 
----
-
-## Output Screenshot
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="Screenshots/Screenshot1.jpg" width="250" height="550" alt="App Screenshot - 1"/>
-  <img src="Screenshots/Screenshot2.jpg" width="250" height="550" alt="App Screenshot - 2"/>
-</div>
 
 ---
 
