@@ -44,17 +44,6 @@ Ensure you have the following installed:
    flutter run
    ```
 
----
-
-### Project Structure
-
-* `lib/main.dart` - Main entry point of the app
-* `lib/screens/` - Contains app screens and UI components
-* `lib/services/` - Handles data fetching and logic (future implementation)
-* `assets/` - Stores images and other static assets
-
----
-
 ### What Happens Behind the Scenes?
 
 When you run the app, Flutter generates the following files and folders that are excluded from version control (as per `.gitignore`):
@@ -81,8 +70,10 @@ These are auto-generated and should **NOT** be committed to GitHub, ensuring the
 
 ## Output Screenshot
 
-![App Screenshot - 1](Screenshots/Screenshot1.jpg)
-![App Screenshot - 2](Screenshots/Screenshot2.jpg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="Screenshots/Screenshot1.jpg" width="250" height="550" alt="App Screenshot - 1"/>
+  <img src="Screenshots/Screenshot2.jpg" width="250" height="550" alt="App Screenshot - 2"/>
+</div>
 
 ---
 
@@ -93,13 +84,3 @@ These are auto-generated and should **NOT** be committed to GitHub, ensuring the
 * Improve UI/UX with animations and error handling.
 * Include data persistence for user preferences.
 * Add unit and widget tests to ensure app stability.
-
----
-
-## License
-
-This project is open-source and free to use under the MIT License.
-
----
-
-Need help with adding conversion logic or improving the UI? Let me know!
