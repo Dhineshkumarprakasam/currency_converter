@@ -2,8 +2,6 @@
 
 A simple Flutter app that converts currency amounts (currently supports USD input) with a clean, dark-themed UI.
 
----
-
 ## Screenshots
 <table border=0px>
   <tr>
@@ -13,7 +11,6 @@ A simple Flutter app that converts currency amounts (currently supports USD inpu
   </tr>
 </table>
 
----
 
 ## Features
 
@@ -22,7 +19,6 @@ A simple Flutter app that converts currency amounts (currently supports USD inpu
 * Responsive design using Flutter widgets
 * Ready for expansion to support multiple currencies
 
----
 
 ## Getting Started
 
@@ -34,7 +30,6 @@ Ensure you have the following installed:
 * [Android Studio](https://developer.android.com/studio) with Flutter and Dart plugins
 * An Android device or emulator for testing
 
----
 
 ### How to Run the App
 
@@ -57,30 +52,12 @@ Ensure you have the following installed:
    flutter run
    ```
 
-### What Happens Behind the Scenes?
-
-When you run the app, Flutter generates the following files and folders that are excluded from version control (as per `.gitignore`):
-
-* `build/` - Compiled app files
-* `.dart_tool/` - Flutter tool artifacts
-* `.flutter-plugins` and `.flutter-plugins-dependencies` - Plugin info
-* `.pub-cache/` - Package cache
-* Platform-specific build files under `android/` and `ios/` - Gradle outputs, Xcode builds
-
-These are auto-generated and should **NOT** be committed to GitHub, ensuring the repository remains clean and focused on source code.
-
----
 
 ## How to Use the App
 
 1. Enter an amount in USD in the text field.
 2. Tap the **Convert** button.
-3. Currently, the app shows a placeholder value ("0").
 
-> Note: Conversion logic is not yet implemented. This feature will be added in future updates.
-
-
----
 
 ## Future Improvements
 
