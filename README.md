@@ -36,7 +36,7 @@ Ensure you have the following installed:
 1. **Clone or download this repository** to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/currency_converter.git
+   git clone https://github.com/Dhineshkumarprakasam/currency_converter.git
    cd currency_converter
    ```
 
